@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\nickr\OneDrive\Desktop\GrandCircus\BinaryTreeExercise\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+527231807.index
+760091825.index
